@@ -11,8 +11,8 @@ This project consists of two assignments:
 2. **Assignment 2:** A Java Servlet-based web application that allows users to upload files through a web interface and store them in a database.
 
 Each assignment is stored in its respective folder:  
-- [`Assignment1/`](./Assignment1) (Standalone Java Client)  
-- [`Assignment2/`](./Assignment2) (Web-based File Upload Servlet)  
+- [`Assignment1/`](./Assignment_1) (Standalone Java Client)  
+- [`Assignment2/`](./Assignment_2) (Web-based File Upload Servlet)  
 
 ---
 
