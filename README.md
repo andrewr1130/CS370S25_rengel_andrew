@@ -7,7 +7,7 @@
 
 ## Overview
 This project consists of two assignments:
-1. **Assignment 1:** A standalone Java application that uploads files to a remote MySQL database.
+1. **Assignment 1:** A standalone Java application that allows connection to remote MySQL database anywhere from the internet.
 2. **Assignment 2:** A Java Servlet-based web application that allows users to upload files through a web interface and store them in a database.
 
 Each assignment is stored in its respective folder:  
@@ -18,7 +18,7 @@ Each assignment is stored in its respective folder:
 
 ## Assignments Breakdown
 ### **Assignment 1 - Standalone Java File Uploader**
-- A **Java application** that allows users to upload files to a **remote MySQL database**.
+- A **Java application** that allows connection to remote MySQL database anywhere from the internet.
 - Requires **Java 17+** and **MySQL server** to run.
 
 ---
